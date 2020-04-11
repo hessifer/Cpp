@@ -10,6 +10,10 @@ enum class Operation {
 struct Calculator {
     Operation operation{};
 public:
+    Calculator() {
+        operation = Operation::Add;
+    }
+
     explicit Calculator(Operation action) {
         operation = action;
     }
@@ -39,8 +43,14 @@ int main() {
     int num1{5};
     int num2{10};
     Calculator calc{Operation::Multiply};
-    size_t result= calc.calculate(num1, num2);
+    size_t result = calc.calculate(num1, num2);
 
     std::cout << num1 << " * " << num2 << " is: " << result << std::endl;
+
+    // use simple Constructor that defaults to Add
+    Calculator calculator{};
+    size_t res = calculator.calculate(num1, num2);
+
+    std::cout << num1 << " + " << num2 << " is: " << res << std::endl;
     return 0;
 }
