@@ -1,3 +1,5 @@
+cmake-build-debug/
+.idea/
 tasks.json
 *.dSYM/
 .vscode
