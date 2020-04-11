@@ -1,0 +1,3 @@
+/home/nagalot/CLionProjects/Cpp/strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nagalot/CLionProjects/Cpp/strings/cmake-build-debug/CMakeFiles/strings.dir
+/home/nagalot/CLionProjects/Cpp/strings/cmake-build-debug/CMakeFiles/edit_cache.dir

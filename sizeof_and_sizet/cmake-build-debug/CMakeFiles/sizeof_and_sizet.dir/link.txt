@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/sizeof_and_sizet.dir/main.cpp.o  -o sizeof_and_sizet 

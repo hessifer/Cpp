@@ -1,0 +1,3 @@
+/home/nagalot/CLionProjects/Cpp/sum_two_numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nagalot/CLionProjects/Cpp/sum_two_numbers/cmake-build-debug/CMakeFiles/sum_two_numbers.dir
+/home/nagalot/CLionProjects/Cpp/sum_two_numbers/cmake-build-debug/CMakeFiles/edit_cache.dir

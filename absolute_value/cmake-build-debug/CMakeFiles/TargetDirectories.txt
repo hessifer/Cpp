@@ -1,0 +1,3 @@
+/home/nagalot/CLionProjects/Cpp/absolute_value/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nagalot/CLionProjects/Cpp/absolute_value/cmake-build-debug/CMakeFiles/absolute_value.dir
+/home/nagalot/CLionProjects/Cpp/absolute_value/cmake-build-debug/CMakeFiles/edit_cache.dir
