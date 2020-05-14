@@ -1,0 +1,3 @@
+/home/nagalot/Documents/github/Cpp/Udacity_Cpp/display_file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nagalot/Documents/github/Cpp/Udacity_Cpp/display_file/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nagalot/Documents/github/Cpp/Udacity_Cpp/display_file/cmake-build-debug/CMakeFiles/display_file.dir

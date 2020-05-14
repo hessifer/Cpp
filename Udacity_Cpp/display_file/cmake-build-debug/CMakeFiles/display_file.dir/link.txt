@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/display_file.dir/main.cpp.o  -o display_file 

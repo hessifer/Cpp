@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nagalot/Documents/github/Cpp/Udacity_Cpp/display_file/main.cpp
+iostream
+-
+string
+-
+fstream
+-
+
