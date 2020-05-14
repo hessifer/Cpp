@@ -1,17 +1,22 @@
 #include <iostream>
 #include <string>
 #include <fstream>
+using std::ifstream;
+using std::string;
+using std::cout;
+using std::endl;
 
-int main() {
-    std::ifstream my_file("/etc/passwd");
-
+void ReadFile(string path) {
+    ifstream my_file(path);
     if (my_file) {
-        std::cout << "File stream created successfully." << std::endl;
-        std::string line;
-
+        string line;
         while (getline(my_file, line)) {
-            std::cout << line << std::endl;
+            cout << line << endl;
         }
     }
+}
+int main() {
+    string file = "/etc/passwd";
+    ReadFile(file);
     return 0;
 }
