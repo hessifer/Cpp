@@ -4,3 +4,8 @@ tasks.json
 *.dSYM/
 .vscode
 Info.plist
+/VisualStuio2019_HW/.vs/VisualStuio2019_HW/v16
+/VisualStuio2019_HW/VisualStuio2019_HW/VisualStuio2019_HW.vcxproj
+/VisualStuio2019_HW/VisualStuio2019_HW/VisualStuio2019_HW.vcxproj.filters
+/VisualStuio2019_HW/VisualStuio2019_HW/VisualStuio2019_HW.vcxproj.user
+/VisualStuio2019_HW/VisualStuio2019_HW.sln
