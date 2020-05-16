@@ -28,7 +28,6 @@ vector<State> ParseLine(string line) {
     return row;
 }
 
-
 vector<vector<State>> ReadBoardFile(string path) {
     ifstream myfile(path);
     vector<vector<State>> board{};
@@ -42,7 +41,6 @@ vector<vector<State>> ReadBoardFile(string path) {
     return board;
 }
 
-// TODO: Write the Heuristic function here.
 int Heuristic(int x1, int y1, int x2, int y2) {
     return abs(x2 - x1) + abs(y2 - y1);
 }
@@ -57,14 +55,12 @@ vector<vector<State>> Search(vector<vector<State>> grid, int init[2], int goal[2
     return std::vector<vector<State>> {};
 }
 
-
 string CellString(State cell) {
     switch (cell) {
     case State::kObstacle: return "^   ";
     default: return "0   ";
     }
 }
-
 
 void PrintBoard(const vector<vector<State>> board) {
     for (unsigned int i = 0; i < board.size(); i++) {
