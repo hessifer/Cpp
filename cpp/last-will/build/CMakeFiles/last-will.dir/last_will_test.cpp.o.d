@@ -2,7 +2,6 @@ CMakeFiles/last-will.dir/last_will_test.cpp.o: \
  /home/charles.hessifer/exercism/cpp/last-will/last_will_test.cpp \
  /usr/include/stdc-predef.h \
  /home/charles.hessifer/exercism/cpp/last-will/last_will.cpp \
- /home/charles.hessifer/exercism/cpp/last-will/test/catch.hpp \
  /usr/include/c++/13/cstddef \
  /usr/include/x86_64-linux-gnu/c++/13/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/13/bits/os_defines.h \
@@ -16,6 +15,7 @@ CMakeFiles/last-will.dir/last_will_test.cpp.o: \
  /usr/include/x86_64-linux-gnu/c++/13/bits/cpu_defines.h \
  /usr/include/c++/13/pstl/pstl_config.h \
  /usr/lib/gcc/x86_64-linux-gnu/13/include/stddef.h \
+ /home/charles.hessifer/exercism/cpp/last-will/test/catch.hpp \
  /usr/include/c++/13/iosfwd /usr/include/c++/13/bits/requires_hosted.h \
  /usr/include/c++/13/bits/stringfwd.h \
  /usr/include/c++/13/bits/memoryfwd.h /usr/include/c++/13/bits/postypes.h \

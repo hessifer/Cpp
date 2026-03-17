@@ -1,3 +1,4 @@
+#include <cstddef>
 // Enter your code below the lines of the families' information
 
 // Secret knowledge of the Zhang family:
@@ -52,4 +53,13 @@ int assemble_account_number(int secret_modifier) {
          khan::bank_number_part(secret_modifier) +
          garcia::bank_number_part(secret_modifier);
 }
+
+int assemble_code() {
+  int red_sum = zhang::red::code_fragment() + khan::red::code_fragment() +
+                garcia::red::code_fragment();
+  int blue_sum = zhang::blue::code_fragment() + khan::blue::code_fragment() +
+                 garcia::blue::code_fragment();
+
+  return red_sum * blue_sum;
+} // namespace estate_executor
 } // namespace estate_executor
