@@ -1,0 +1,20 @@
+[
+  {
+    "directory": "/home/charles.hessifer/exercism/cpp/raindrops/build",
+    "command": "/usr/bin/c++ -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/raindrops.dir/raindrops_test.cpp.o -c /home/charles.hessifer/exercism/cpp/raindrops/raindrops_test.cpp",
+    "file": "/home/charles.hessifer/exercism/cpp/raindrops/raindrops_test.cpp",
+    "output": "CMakeFiles/raindrops.dir/raindrops_test.cpp.o"
+  },
+  {
+    "directory": "/home/charles.hessifer/exercism/cpp/raindrops/build",
+    "command": "/usr/bin/c++ -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/raindrops.dir/raindrops.cpp.o -c /home/charles.hessifer/exercism/cpp/raindrops/raindrops.cpp",
+    "file": "/home/charles.hessifer/exercism/cpp/raindrops/raindrops.cpp",
+    "output": "CMakeFiles/raindrops.dir/raindrops.cpp.o"
+  },
+  {
+    "directory": "/home/charles.hessifer/exercism/cpp/raindrops/build",
+    "command": "/usr/bin/c++ -I/usr/include/c++/13 -I/usr/include/x86_64-linux-gnu/c++/13 -I/usr/include/c++/13/backward -I/usr/lib/gcc/x86_64-linux-gnu/13/include -I/usr/local/include -I/usr/include/x86_64-linux-gnu -I/usr/include -g -std=c++17 -Wall -Wextra -Wpedantic -Werror -o CMakeFiles/raindrops.dir/test/tests-main.cpp.o -c /home/charles.hessifer/exercism/cpp/raindrops/test/tests-main.cpp",
+    "file": "/home/charles.hessifer/exercism/cpp/raindrops/test/tests-main.cpp",
+    "output": "CMakeFiles/raindrops.dir/test/tests-main.cpp.o"
+  }
+]
