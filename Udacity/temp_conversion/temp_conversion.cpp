@@ -5,7 +5,7 @@ int main() {
   double temp;
   char convertAgain = 'y';
 
-  while (convertAgain == 'y') {
+  while (convertAgain == 'y' || convertAgain == 'Y') {
     std::cout << "Convert:\n1. Celsius to Fahrenheit\n2. Fahrenheit to "
                  "Celsius\nEnter your choice: ";
     std::cin >> choice;
